@@ -1,1 +1,1 @@
-sarver running
+Server is running
